@@ -23,9 +23,9 @@ ruby test_unit.rb
 
 ```
 
-### install-script-vm
+### install-rubydev
 
-A single script to set a rails dev environment up and running in Ubuntu.
+A single script to set a rails dev environment up and running in Ubuntu (or a Debian based OS).
 
 ### aws-sdk s3 upload test
 
